@@ -14,6 +14,6 @@ func main() {
 	var grades [3]int = [3]int{90, 98, 93}
 	fmt.Println(grades[2])
 	// 第三種
-	heights := [3]int{123, 8, 93}
+	heights := [3]int{90,98,93}
 	fmt.Println(heights[0])
 }
